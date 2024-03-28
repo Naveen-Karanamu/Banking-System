@@ -1,0 +1,88 @@
+Account ID: 2
+Name: fdfasdfsd
+Age: 23
+Phone Number: 3333333333
+Email: dfdsfsdf@gsd.com
+Aadhaar Number: 88888888888888
+Balance: 12321.33
+
+Account ID: 3
+Name: sai
+Age: 12
+Phone Number: 7777777777
+Email: 3ddfdsf@gmai.com
+Aadhaar Number: 44444444444444
+Balance: 230500.0
+
+Account ID: 4
+Name: cwdqwd
+Age: 22
+Phone Number: 2233232332
+Email: chgydqhwduqhd@jhiqjd.com
+Aadhaar Number: 12345678901234
+Balance: 2422.0
+
+Account ID: 5
+Name: simar
+Age: 21
+Phone Number: 9999999999
+Email: jdfljdsfl@gmail.com
+Aadhaar Number: 09090909090909
+Balance: 500.0
+
+Account ID: 6
+Name: dsfdsafdf
+Age: 23
+Phone Number: 9999999999
+Email: odjfjd@g.com
+Aadhaar Number: 11111111111111
+Balance: 900.0
+
+Account ID: 7
+Name: dfdldf
+Age: 25
+Phone Number: 7777777777
+Email: dlfdfljal@g.com
+Aadhaar Number: 99999999999999
+Balance: 40000.0
+
+Account ID: 8
+Name: dfaf
+Age: 21
+Phone Number: 2222222222
+Email: dsfds@gm.com
+Aadhaar Number: 22222222222222
+Balance: 10.0
+
+Account ID: 9
+Name: IV
+Age: 1000
+Phone Number: 9999999999
+Email: lfjljdsf@g.com
+Aadhaar Number: 22222222222222
+Balance: 10000.0
+
+Account ID: 10
+Name: fdsf
+Age: 45
+Phone Number: 4343434343
+Email: gfgffdfs@gafds.com
+Aadhaar Number: 323232323232
+Balance: 324.0
+
+Account ID: 11
+Name: dfadsfs
+Age: 32
+Phone Number: 3223323232
+Email: jfdslkjf@hdto.in
+Aadhaar Number: 323232323232
+Balance: 324.0
+
+Account ID: 12
+Name: dkff
+Age: 34
+Phone Number: 9898989898
+Email: dfldjf@g.in
+Aadhaar Number: 878787878787
+Balance: 12.0
+
